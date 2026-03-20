@@ -57,7 +57,7 @@ npm run dev
 Example API:
 
 ```
-https://official-joke-api.appspot.com/random_joke
+https://official-joke-api.appspot.com/jokes/random
 ```
 
 ---
