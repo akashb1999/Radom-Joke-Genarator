@@ -73,7 +73,8 @@ https://official-joke-api.appspot.com/random_joke
 ```
 src/
  ├── components/
- │    └── Joke.jsx
+ │    └── load.tsx
+       └──random.tsx
  ├── App.jsx
  ├── main.jsx
  └── styles/
