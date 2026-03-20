@@ -17,7 +17,7 @@ const RandomJoke = () => {
       setError(null);
 
       const res = await fetch(
-        "https://official-joke-api.appspot.com/jokes/random",
+        'https://official-joke-api.appspot.com/jokes/random',
       );
 
       if (!res.ok) {
