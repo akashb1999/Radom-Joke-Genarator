@@ -42,7 +42,7 @@ const RandomJoke = () => {
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 p-6">
         <div className="bg-white max-w-lg w-full rounded-2xl shadow-2xl p-8 text-center transition-all duration-300 hover:scale-[1.02]">
           <h1 className="text-3xl font-bold text-gray-800 mb-6">
-            😂 Random Joke Generator
+            Random Joke Generator
           </h1>
 
           {loading && (
